@@ -9,7 +9,7 @@ from aiogram.enums import ContentType
 import time
 import logging
 
-TOKEN = "8756836825:AAHl9MeEcO7s0Zfay8dOi27Pn2pHCzPdCms"
+TOKEN = "---"
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot=bot)
 
